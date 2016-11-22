@@ -1,0 +1,59 @@
+/* responsive text queries */
+@media screen and (min-width: 768px) {
+  p, .btn-lg, a{
+    font-size: 150%;
+  }
+  h1 {
+    font-size: 350%;  
+  }
+  h2 {
+    font-size: 300%;  
+  }/*187.5%*/
+  h3 {
+    font-size: 160%;  
+  }
+  h4{
+    font-size: 112.5%;  
+  }
+   h5 {
+    font-size: 87.5%;  
+  }
+  h6{
+    font-size: 75%;  
+  }
+}
+
+@media screen and (max-width: 768px) {
+  p,.btn-lg,input,div,span{
+    font-size: 97%;
+  }
+  h1 {
+    font-size: 200%;  
+  }
+  h2 {
+    font-size: 140%;  
+  }
+  h3 {
+    font-size: 145%;  
+  }
+  h4{
+    font-size: 112.5%;  
+  }
+   h5 {
+    font-size: 87.5%;  
+  }
+  h6{
+    font-size: 75%;  
+  }
+  .text-right, #sectionblue, footer{
+        text-align: center;
+  }
+   button{
+       display: block;
+       margin-right: auto;
+       margin-left: auto;
+  }
+    #socialm i{
+        font-size: 2.5em;
+    }
+}

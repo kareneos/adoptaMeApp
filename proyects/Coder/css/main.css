@@ -1,0 +1,80 @@
+/*TEXTO*/
+.orange{
+    color: #F05F40;
+}
+/*BACKGROUONDS*/
+.naranja{
+    background-color: #F05F40;
+}
+.negro{
+    background-color: black;
+}
+.blanco{
+    background-color: white;
+}
+/*GENERAL*/
+hr{
+    width: 5%;
+    border: .2em solid;
+}
+.orangeline{
+    border-color:  #F05F40;
+}
+#whiteline{
+    border-color:  white;
+}
+/*HEADER*/
+nav{
+    opacity: .6;
+}
+header{
+    background-image: url("../img/header.jpg");
+    padding: 20%;
+}
+header span{
+    font-size: 2em;
+}
+/*BODY*/
+button:hover{
+    background-color: coral;
+    -webkit-transform: scale(1.1);
+    -webkit-transition-duration: .8s;
+}
+img{
+    width: 35%;
+}
+span{
+    font-size: 6em;
+}
+.picture .naranja{
+    padding: 18%;
+    margin-left: -4%;
+    margin-right: -4%;
+    opacity: 0;
+}
+.picture .naranja:hover{
+    opacity: .8;
+}
+#foto1{
+    background-image: url("../img/1.jpg");
+}
+#foto2{
+    background-image: url("../img/2.jpg");
+}
+#foto3{
+    background-image: url("../img/3.jpg");
+}
+#foto4{
+    background-image: url("../img/4.jpg");
+}
+#foto5{
+    background-image: url("../img/5.jpg");
+}
+#foto6{
+    background-image: url("../img/6.jpg");
+}
+/*FOOTER*/
+footer img{
+    width: 10%;
+}
+

@@ -1,0 +1,37 @@
+/*GENERAL*/
+nav, button{
+    border: none!important;
+}
+/*BACKGROUND*/
+.bg-wine, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #9C194A;
+}
+.bg-turquoise{
+    background-color: #62C1D0;
+}
+.bg-gray{
+    background-color: #F1F1F1;
+}
+.bg-white{
+    background-color: white;
+}
+/*COLORS*/
+.skin{
+    color: #CA9797;
+}
+.turquoise{
+    color: #62C1D0;
+}
+.wine{
+    color: #A10B4D;
+}
+.gray{
+    color: #A3A3A3;
+}
+.yellow {
+	color: #F3E5B7;
+}
+/*SECTIONS*/
+#botonAdoptar {
+	width: 65%;
+}
